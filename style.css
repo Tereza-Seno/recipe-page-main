@@ -1,0 +1,137 @@
+@font-face {
+    font-family: "Outfit";
+    src: url(assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: "YoungSerif";
+    src: url(assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --white: hsl(0, 0%, 100%);
+    --stone100: hsl(30, 54%, 90%);
+    --stone150: hsl(30, 18%, 87%);
+    --stone600: hsl(30, 10%, 34%);
+    --stone900: hsl(24, 5%, 18%);
+    --brown800: hsl(14, 45%, 36%);
+    --rose800: hsl(332, 51%, 32%);
+    --rose50: hsl(330, 100%, 98%);
+}
+
+body {
+    font-family: "Outfit", sans-serif;
+    background-color: var(--stone100);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--stone900);
+    line-height: 1.5;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--stone150);
+  width: 100%;
+}
+
+h1 {
+    font-family: "YoungSerif", sans-serif;
+    margin: 20px 0px;
+    font-weight: 400;
+}
+
+h2 {
+    font-family: "YoungSerif", sans-serif;
+    color: var(--brown800);
+    font-weight: 400;
+}
+
+.whole-page {
+    background-color: var(--white);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    padding: 50px;
+    width: 800px;
+}
+
+.description {
+    margin-bottom: 40px;
+}
+
+ul li {
+    margin: 15px 20px;
+}
+
+ol li {
+    margin: 15px 20px;
+}
+
+ol li::marker {
+    color: var(--brown800);
+    font-weight: 700;
+}
+
+img {
+    width: 700px;
+    border-radius: 10px;
+}
+
+.preparation-time {
+    background-color: var(--rose50);
+    padding: 15px 25px;
+    border-radius: 10px;
+}
+
+#prep {
+    color: var(--rose800);
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+}
+
+.ingredients {
+    padding: 25px 0px;
+}
+
+.instructions {
+    padding: 25px 0px;
+}
+
+.nutrition {
+    padding: 25px 0px;
+}
+
+.nutrition p {
+    padding: 15px 0;
+}
+
+.styled-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.styled-table td {
+  padding: 10px;
+}
+
+.styled-table tr:not(:last-child) {
+  border-bottom: 1px solid #e4ded8;
+}
+
+.bold {
+    font-weight: 700;
+    color: var(--brown800)
+}
+
+.attribution {
+    display: none;
+}
