@@ -61,7 +61,8 @@ h2 {
     flex-direction: column;
     margin: 50px;
     padding: 50px;
-    width: 800px;
+    width: 80%;
+    max-width: 800px;
 }
 
 .description {
@@ -82,7 +83,7 @@ ol li::marker {
 }
 
 img {
-    width: 700px;
+    width: 100%;
     border-radius: 10px;
 }
 
