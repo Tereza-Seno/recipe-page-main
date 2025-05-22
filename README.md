@@ -5,7 +5,7 @@
 # Recipe Page 🥚🍳
 
 
-## Project Description 🇬🇧
+## Project Description
 
 This is a simple and clear recipe page for a classic omelette, created as a solution for the **Frontend Mentor challenge**.  
 The page includes ingredients, preparation time, step-by-step instructions, and nutrition facts, making the recipe easy to follow.
@@ -30,7 +30,7 @@ Thanks for checking out! 👩‍🍳✨
 # Receptová stránka 🥚🍳
 
 
-## Popis projektu 🇨🇿
+## Popis projektu
 
 Toto je jednoduchá a přehledná stránka s receptem na klasickou omeletu, kterou jsem vytvořila jako řešení **Frontend Mentor challenge**.  
 Stránka obsahuje ingredience, čas přípravy, podrobný postup a nutriční informace, aby byl recept co nejsnazší a nejpřehlednější.
