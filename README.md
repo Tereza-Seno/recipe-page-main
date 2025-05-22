@@ -4,7 +4,6 @@
 
 # Recipe Page 🥚🍳
 
----
 
 ## Project Description 🇬🇧
 
@@ -14,7 +13,6 @@ The page includes ingredients, preparation time, step-by-step instructions, and 
 The project is built purely with HTML and CSS with a responsive design, making it usable on various devices — from mobiles to large screens.  
 My goal was to improve skills in flexible layouts and typography.
 
----
 
 ## Additional Info ℹ️
 
@@ -24,7 +22,6 @@ My goal was to improve skills in flexible layouts and typography.
 - Clean and well-structured code  
 - Image sources and favicon included  
 
----
 
 Thanks for checking out! 👩‍🍳✨
 
@@ -32,7 +29,6 @@ Thanks for checking out! 👩‍🍳✨
 
 # Receptová stránka 🥚🍳
 
----
 
 ## Popis projektu 🇨🇿
 
@@ -42,7 +38,6 @@ Stránka obsahuje ingredience, čas přípravy, podrobný postup a nutriční in
 Projekt je napsaný čistě v HTML a CSS s responzivním designem, takže je použitelný na různých zařízeních — od mobilů až po větší obrazovky.  
 Mým cílem bylo zlepšit se v práci s flexibilními layouty a typografií.
 
----
 
 ## Další informace ℹ️
 
@@ -52,6 +47,5 @@ Mým cílem bylo zlepšit se v práci s flexibilními layouty a typografií.
 - Čistý a přehledný kód  
 - Zdroje obrázků a favicon jsou součástí projektu  
 
----
 
 Díky za návštěvu! 👩‍🍳✨
